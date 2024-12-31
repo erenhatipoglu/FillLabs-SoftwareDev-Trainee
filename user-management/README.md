@@ -25,5 +25,5 @@ This project is a simple user management system built with a Go backend and a Ne
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/erenhatipoglu/FillLabs-SoftwareDev-Trainee/user-management-system.git
-   cd user-management-system
+   git clone https://github.com/erenhatipoglu/FillLabs-SoftwareDev-Trainee
+   cd user-management
